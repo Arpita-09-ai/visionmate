@@ -1,6 +1,5 @@
-============================================================
+
                     V I S I O N M A T E
-============================================================
 
        A Predictive AI Assistive System with
        Spatial Awareness and Safety Analytics
@@ -215,7 +214,6 @@ The project demonstrates how AI can be used to convert
 visual information into meaningful audio feedback for
 visually impaired users.
 
-============================================================
                  V I S I O N M A T E
           AI FOR ACCESSIBLE ENVIRONMENTS
-============================================================
+
